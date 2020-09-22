@@ -1,3 +1,6 @@
+body{
+  background-color: olive;
+}
 fieldset {
      border: 1px solid #781351;
      margin:auto;
